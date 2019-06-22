@@ -1,6 +1,5 @@
 # Deep Learning Specialization Course
 
-Instructor: 
 
 ## Introduction
 
@@ -10,12 +9,13 @@ This repository contains all of my work against the [Deep Learning Specializatio
 
 ## Programming Assignments
 -	**Course 1: Neural Networks and Deep Learning**
-  - [Week 2 - Assignment 1: Logistic Regression with a Neural Network mindset](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
-  - [Week 3 - Assignment 2: Planar data classification with one hidden layer](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
-  - [Week 4 - Assignment 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
-  - [Week 4 - Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+	- [Week 2 - Assignment 1: Logistic Regression with a Neural Network mindset](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
+	- [Week 3 - Assignment 2: Planar data classification with one hidden layer](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
+	- [Week 4 - Assignment 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+	- [Week 4 - Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C1%20Neural%20Networks%20and%20deep%20learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
   
-- **Course 2:  Improving Deep Neural Networks: Hyperparameter tuning, Regularization                  and Optimization**
+  
+- **Course 2:  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
   - [Week 1 - Assignment 1 - Initialization](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - Assignment 2 - Regularization](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization%2B-%2Bv2.ipynb)
   - [Week 1 - Assignment 3 - Gradient Checking](https://github.com/ashsne/Deep-Learning-Specialization-on-Coursera/blob/master/C2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
